@@ -51,7 +51,7 @@ ________________________________________
 The analysis highlights key trends in company registration, turnover, and closures. Consultancy and construction stand out for their consistent growth, while incorporation patterns vary by company type. Closure rates have increased from 2013 to 2022, with notable differences across company types and categories
 By first cleaning and preparing the data—through the removal of duplicates, column standardization, handling of null values, and the creation of calculated columns—the dataset became more accurate and reliable for analysis.
 ________________________________________
-6. Recommendations (Optional)
+6. Recommendations
 •	Monitor high-growth sectors like Construction and Consultancy.
 •	Investigate causes of closures in 2022 so that they do not happen again, or things are put in place to mitigate the effect of the cause of such closures. 
 •	Provide tailored support for businesses incorporating in off-peak months.
