@@ -12,7 +12,7 @@ Before conducting the analysis, several data-cleaning steps were performed to en
 •	Handling Null Values: Removed unnecessary blank rows/fields and applied appropriate methods where deletion was not feasible.
 •	Calculated Columns: Created new fields such as Sum of Turnover 2021 to 2025 and Flagged turnover to support deeper analysis.
 These steps improved the dataset’s reliability and allowed for more meaningful insights.
-________________________________________
+
 3. Analysis
 3.1 Sector Turnover Trends
 •	Method: Turnover data was aggregated by sector and compared year-on-year. Line charts were used to visualise changes over time.
@@ -27,7 +27,7 @@ o	Overall, the most common incorporation month is March.
 o	For Company type ‘Others’ and Construction, this trend holds true.
 o	For Consultancy, incorporations peak in September.
 •	Conclusion: While March is the most popular overall, incorporation seasonality varies by company type.
-________________________________________
+
 3.3 Closed Companies Over Time
 •	Method: Companies flagged as "Closed" were counted per year.
 •	Findings:
@@ -40,17 +40,18 @@ o	Peaks in closures occurred in 2022, possibly linked to the effect of the pande
 o	Private Limited Companies have the highest turnover, while Private Unlimited Companies had the lowest out of the company categories that had values. 
 •	Trade Type Differences:
 o	Farming companies tend to register in most in September, while Education tends to register most in October. 
-________________________________________
+
 4. Visualisations
 The following visuals were used to support the analysis:
 •	Line charts: Turnover trends by sector.
 •	Column charts: Incorporations per month.
 •	Stacked bar charts: Closed companies per year.
-________________________________________
+
+
 5. Conclusion
 The analysis highlights key trends in company registration, turnover, and closures. Consultancy and construction stand out for their consistent growth, while incorporation patterns vary by company type. Closure rates have increased from 2013 to 2022, with notable differences across company types and categories
 By first cleaning and preparing the data—through the removal of duplicates, column standardization, handling of null values, and the creation of calculated columns—the dataset became more accurate and reliable for analysis.
-________________________________________
+
 6. Recommendations
 •	Monitor high-growth sectors like Construction and Consultancy.
 •	Investigate causes of closures in 2022 so that they do not happen again, or things are put in place to mitigate the effect of the cause of such closures. 
